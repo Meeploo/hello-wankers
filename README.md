@@ -1,4 +1,4 @@
-# hello-wankers
+# hello-world
 default noob stuff
 
 Writing in this to complete basic tutorial stuff.
